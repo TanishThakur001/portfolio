@@ -39,6 +39,14 @@ export function Navbar() {
                 {link.name}
               </a>
             ))}
+            <a
+              href="https://drive.google.com/file/d/1KcenO6BIywKGiuHX1oLWoEAWcKxqxbN6/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="ml-2 px-4 py-1.5 text-[13px] font-medium text-cyan-50 bg-cyan-600/20 hover:bg-cyan-600/30 border border-cyan-500/30 rounded-md transition-colors"
+            >
+              Resume
+            </a>
           </div>
 
           <div className="flex items-center gap-2 md:hidden">
@@ -71,6 +79,15 @@ export function Navbar() {
                   {link.name}
                 </a>
               ))}
+              <a
+                href="https://drive.google.com/file/d/1KcenO6BIywKGiuHX1oLWoEAWcKxqxbN6/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setMobileOpen(false)}
+                className="block px-3 py-2 mt-2 text-sm font-medium text-cyan-50 bg-cyan-600/20 hover:bg-cyan-600/30 border border-cyan-500/30 rounded-lg transition-colors text-center"
+              >
+                Resume
+              </a>
             </div>
           </motion.div>
         )}

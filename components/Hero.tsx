@@ -37,6 +37,10 @@ export function Hero() {
               <span className="text-cyan-400">Tanish</span>
             </h1>
 
+            <h2 className="mt-4 text-2xl sm:text-3xl lg:text-4xl font-semibold text-slate-300">
+              Cloud Architect and DevOps Engineer
+            </h2>
+
             <p className="mt-5 text-base sm:text-lg text-slate-400 max-w-xl leading-relaxed">
               I build exceptional digital experiences with modern web
               technologies, focusing on performance, accessibility, and
@@ -57,7 +61,9 @@ export function Hero() {
                 View Projects
               </a>
               <a
-                href=""
+                href="https://drive.google.com/file/d/1KcenO6BIywKGiuHX1oLWoEAWcKxqxbN6/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg border border-slate-700 text-slate-300 text-sm font-medium hover:bg-slate-800 transition-colors"
               >
                 Resume

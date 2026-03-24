@@ -51,14 +51,13 @@ export function About() {
             transition={{ duration: 0.5 }}
           >
             <p className="text-base text-slate-400 leading-relaxed">
-              Hello! I&apos;m Tanish, a passionate developer who loves building
-              web applications with modern technologies. I focus on creating
-              clean, efficient, and user-friendly digital experiences.
+              Hello! I&apos;m Tanish Singh Thakur, a passionate cloud architect with a deep fascination for transforming complex problems into scalable and efficient cloud solutions.
             </p>
             <p className="mt-4 text-base text-slate-400 leading-relaxed">
-              I&apos;m always eager to learn new things and take on challenging
-              projects. My goal is to write code that makes a difference and
-              creates value for users.
+              My journey in tech began with curious exploration and has evolved into a focused expertise in cloud architecture and full-stack development. I specialize in designing secure, high-performance systems using modern cloud infrastructure alongside technologies like React and Node.js.
+            </p>
+            <p className="mt-4 text-base text-slate-400 leading-relaxed">
+              What drives me is the intersection of technology and innovation—finding that perfect balance between robust architecture and practical implementation. I&apos;m constantly expanding my skills through hands-on projects and keeping up with emerging cloud technologies.
             </p>
 
             <div className="mt-8 grid grid-cols-2 gap-3">

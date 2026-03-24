@@ -11,14 +11,14 @@ const certificates = [
     issuer: "NPTEL IIT Madras",
     date: "",
     link: "https://drive.google.com/drive/u/0/folders/1dmnSrab95Xqri6zf8tgsJNOnZ0MHMM1V",
-    image: "/cert-1.png",
+    image: "/cert-2.png",
   },
   {
     title: "Data Structures and Algorithms",
     issuer: "Cipher Schools",
     date: "",
     link: "https://drive.google.com/drive/u/0/folders/1dmnSrab95Xqri6zf8tgsJNOnZ0MHMM1V",
-    image: "/cert-2.png",
+    image: "/cert-1.png",
   },
   {
     title: "Introduction to Hardware and Operating System",
